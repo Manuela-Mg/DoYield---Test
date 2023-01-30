@@ -2,7 +2,7 @@
 
 Ce projet a été fait en `1h27:38,53`
 
-## Available Scripts
+## Script disponible
 
 Dans ce directory, vous pouvez run:
 
